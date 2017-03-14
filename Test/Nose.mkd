@@ -10,6 +10,8 @@
 
 ## Options
 * [List of Options with nosetests](http://nose.readthedocs.io/en/latest/plugins/doctests.html)
+* --collect-only
+  * Enable collect-only: Collect and output test names only, don’t run any tests.
 * --with-coverage
   * Enable plugin Coverage: Activate a coverage report using Ned Batchelder’s coverage module. [NOSE_WITH_COVERAGE]
 * --cover-erase
