@@ -1,6 +1,14 @@
 # Exceptions
 - [List of concreate exceptions](https://docs.python.org/3/library/exceptions.html)
+- [List of Warnings](https://docs.python.org/3/library/warnings.html)
 
 ## [OSError](https://docs.python.org/3/library/exceptions.html#OSError)
 - This exception is raised when a system function returns a system-related error, including I/O failures such as “file not found” or “disk full” (not for illegal argument types or other incidental errors).
 - [Sub-classes of OSError](https://docs.python.org/3/library/exceptions.html#os-exceptions)
+
+
+# Warnings
+- [List of Warnings](https://docs.python.org/3/library/warnings.html)
+- [Warning Control](https://docs.python.org/3/library/warnings.html#module-warnings)
+
+---
