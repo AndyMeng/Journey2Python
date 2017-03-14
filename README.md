@@ -1,4 +1,5 @@
 # Journey2Python
 
-* [Unit 1: Functions](./Functions/Function.mkd)
-* [Unit 2: Test](./Test/Test.mkd)
+* [Functions](./Functions/Function.mkd)
+* [Test](./Test/Test.mkd)
+* [Exceptions](./Exceptions/Exceptions.mkd)
