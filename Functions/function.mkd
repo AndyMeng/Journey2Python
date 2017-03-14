@@ -1,0 +1,7 @@
+# Functions
+
+## Function and method arguments
+- Always use `self` for the first argument to instance methods.
+- Always use `cls for` the first argument to class methods.
+
+---
