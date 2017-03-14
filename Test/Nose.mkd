@@ -1,0 +1,20 @@
+# nose
+- **nose** extends unittest to make testing easier
+- [nose official page](http://nose.readthedocs.io/en/latest/)
+- Install nose
+  - Run `pip install nose`
+- To run nose tests
+  - Run `nosetests --with-coverage --cover-erase`
+- To run specific test function
+  - Run `nosetests test/test_file_name.py:TestClassName.test_function_name`
+
+## Options
+* [List of Options with nosetests](http://nose.readthedocs.io/en/latest/plugins/doctests.html)
+* --with-coverage
+  * Enable plugin Coverage: Activate a coverage report using Ned Batchelder’s coverage module. [NOSE_WITH_COVERAGE]
+* --cover-erase
+   * Erase previously collected coverage statistics before run
+* --cover-tests
+  *  Include test modules in coverage report [NOSE_COVER_TESTS]
+* --cover-html
+  * Produce HTML coverage information
