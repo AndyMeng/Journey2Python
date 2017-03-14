@@ -1,7 +1,7 @@
 # Python Test Framework
 
 ## 1.Nose
-- nose extends unittest to make testing easier
+- **nose** extends unittest to make testing easier
 - [Nose Official Page](http://nose.readthedocs.io/en/latest/)
 - Install nose
   - Run `pip install nose`
@@ -11,7 +11,7 @@
   - Run `nosetests test/test_ua.py:TestUA.test_ua_false`
 
 ## 2.Nose2
-- successor of nose and based on unittest2
+- successor of **nose** and based on **unittest2**
 - [Nose2 Official Page](http://nose2.readthedocs.io/en/latest/)
 
 ## 3.Sample libraries of a test suite
