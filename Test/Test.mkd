@@ -32,7 +32,8 @@ typing == 3.5.2.2
 </pre>
 
 ## Useful libraries
-- [unnitest.mock](https://docs.python.org/3.5/library/unittest.mock.html#module-unittest.mock)
+- [unittest.mock](https://docs.python.org/3.5/library/unittest.mock.html#module-unittest.mock)
+  - [A good tutorial on unittest](https://www.toptal.com/python/an-introduction-to-mocking-in-python)
 
 ## Git `pre-commit` hook
 - [Customizing Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
