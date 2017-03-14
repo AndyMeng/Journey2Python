@@ -1,3 +1,3 @@
 # Journey2Python
 
-* [Unit 2: Test](./Test/test.mkd)
+* [Unit 2: Test](./Test/Test.mkd)
