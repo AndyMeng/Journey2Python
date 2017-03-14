@@ -1,14 +1,7 @@
 # Python Test Frameworks
 
 ## 1.nose
-- **nose** extends unittest to make testing easier
-- [nose official page](http://nose.readthedocs.io/en/latest/)
-- Install nose
-  - Run `pip install nose`
-- To run nose tests
-  - Run `nosetests --with-coverage --cover-erase`
-- To run specific test function
-  - Run `nosetests test/test_file_name.py:TestClassName.test_function_name`
+- [nose test](Nose.mkd)
 
 ## 2.nose2
 - successor of **nose** and based on **unittest2**
