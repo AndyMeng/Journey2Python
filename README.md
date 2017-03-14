@@ -2,4 +2,4 @@
 
 * [Functions](./Functions/Function.mkd)
 * [Test](./Test/Test.mkd)
-* [Exceptions](./Exceptions/Exceptions.mkd)
+* [Exceptions & Warnings](./Exceptions/Exceptions_Warnings.mkd)
