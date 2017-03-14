@@ -13,3 +13,15 @@ from unittest.mock import create_autospec
 <pre>
 mock_function2 = create_autospec(target_function, return_value='fishy')
 </pre>
+
+## MagicMock objects
+- By default patch() will create a MagicMock for you
+- [Official doc](https://docs.python.org/3/library/unittest.mock.html#unittest.mock.Mock)
+- [Another short introduction of MagicMock objects](https://blog.fugue.co/2016-02-11-python-mocking-101.html)
+- List of most used MagicMock objects
+  - return_value
+  - side_effect
+  - assert_called_with
+  - called
+  - call_count
+  - cal_args
