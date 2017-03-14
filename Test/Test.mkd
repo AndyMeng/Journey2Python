@@ -5,14 +5,20 @@
 - [nose official page](http://nose.readthedocs.io/en/latest/)
 - Install nose
   - Run `pip install nose`
-- Run nose tests
+- To run nose tests
   - Run `nosetests --with-coverage --cover-erase`
-- Run specific test function
+- To run specific test function
   - Run `nosetests test/test_ua.py:TestUA.test_ua_false`
 
 ## 2.nose2
 - successor of **nose** and based on **unittest2**
 - [nose2 official page](http://nose2.readthedocs.io/en/latest/)
+
+## 3.pytest
+- [pytest official page](http://doc.pytest.org/en/latest/)
+- Installation
+  - Run `pip install -U pytest`
+  - To check if correct pytest is install, run `pytest --version`
 
 ## 3.Sample libraries of a test suite
 <pre>pylint == 1.6.4
