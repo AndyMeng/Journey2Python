@@ -9,9 +9,7 @@
 
 ## 3.pytest
 - [pytest official page](http://doc.pytest.org/en/latest/)
-- Installation
-  - Run `pip install -U pytest`
-  - To check if correct pytest is install, run `pytest --version`
+- [pytest](Pytest.mkd)
 ## 4.unittest
 - [unitttest.mock](Mock.mkd)
 
