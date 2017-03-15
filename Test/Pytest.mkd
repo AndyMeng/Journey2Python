@@ -1,0 +1,10 @@
+#pytest
+
+##Basic
+- [pytest official page](http://doc.pytest.org/en/latest/)
+- Installation
+  - Run `pip install -U pytest`
+  - To check if correct pytest is install, run `pytest --version`
+  
+ ##Asserts in pytest
+ - [List of Assertions](http://docs.pytest.org/en/latest/assert.html#assert)
