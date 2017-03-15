@@ -10,3 +10,6 @@
  ## Asserts in pytest
  - [List of Assertions](http://docs.pytest.org/en/latest/assert.html#assert)
 
+## Covergage
+- [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/readme.html)
+- [Example of using pytest-cov for Test Coverage and Automation](http://www.robinandeer.com/blog/2016/06/22/how-i-test-my-code-part-3/)
