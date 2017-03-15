@@ -1,10 +1,12 @@
-#pytest
+# pytest
 
-##Basic
+## Basic
 - [pytest official page](http://doc.pytest.org/en/latest/)
 - Installation
   - Run `pip install -U pytest`
   - To check if correct pytest is install, run `pytest --version`
+ - [A short tutorial of Pytest + Mock](https://medium.com/@bfortuner/python-unit-testing-with-pytest-and-mock-197499c4623c#.z5qjz1g9g)
   
- ##Asserts in pytest
+ ## Asserts in pytest
  - [List of Assertions](http://docs.pytest.org/en/latest/assert.html#assert)
+
