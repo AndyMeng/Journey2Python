@@ -1,0 +1,6 @@
+# CI
+
+## [Build Python project with Travis](https://docs.travis-ci.com/user/languages/python/)
+* [.travis.yml](https://docs.travis-ci.com/user/customizing-the-build)
+* [.coveragerc](http://coverage.readthedocs.io/en/latest/config.html)
+* [.pylintrc](https://docs.pylint.org/en/1.6.0/run.html)
